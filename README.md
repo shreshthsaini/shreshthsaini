@@ -4,4 +4,4 @@ I work on generative models, video, and perceptual quality. More about my resear
 
 If you want to work with me, please feel free to reach out. I'm happy to advise and collaborate.
 
-📮 saini DOT 2 AT utexas DOT edu
+📮 saini[dot]2[at]utexas[dot]edu
